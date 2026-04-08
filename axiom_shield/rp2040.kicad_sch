@@ -3386,12 +3386,28 @@
 		(uuid "f2d78a0c-2654-4dab-8d9d-a466d57f7535")
 	)
 	(no_connect
+		(at 170.18 73.66)
+		(uuid "1c7b2983-db3f-47cb-bf23-0c3df6bd8885")
+	)
+	(no_connect
+		(at 170.18 129.54)
+		(uuid "798f2821-b9a7-4ee0-a0fd-2c1440fd8c58")
+	)
+	(no_connect
+		(at 170.18 132.08)
+		(uuid "886b2f3c-a6dd-4b1c-88fc-c290418e0b3b")
+	)
+	(no_connect
 		(at 248.92 107.95)
 		(uuid "c446b6e1-11cd-43ee-a246-505e9f4a06d7")
 	)
 	(no_connect
 		(at 248.92 105.41)
 		(uuid "d1b4910a-2a43-4092-aa4b-a56ecc0514a5")
+	)
+	(no_connect
+		(at 170.18 134.62)
+		(uuid "fd9016e2-e39e-47a5-bc70-1fb024673d96")
 	)
 	(wire
 		(pts
@@ -5724,7 +5740,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "RST"
 			(at 198.12 133.3499 90)
 			(effects
 				(font
