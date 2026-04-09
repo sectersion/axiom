@@ -1832,7 +1832,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02ec4d4a-f335-4b98-9103-79a0f96c4688")
-		(property "Reference" "J5"
+		(property "Reference" "J12"
 			(at 147.32 74.93 0)
 			(effects
 				(font
@@ -2059,19 +2059,19 @@
 		(instances
 			(project "axiom_shield"
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/04c6829e-277b-43b0-b617-59fdf0e72999"
-					(reference "J8")
+					(reference "J15")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/0af8012a-d1d0-4c22-a337-ed2180433e12"
-					(reference "J5")
+					(reference "J12")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/4dc9c886-5072-46af-88c7-54df2a8b7696"
-					(reference "J7")
+					(reference "J14")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/5ea327fb-f362-4b77-b0f9-6b7c25185568"
-					(reference "J6")
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -2087,7 +2087,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "265e27ae-90df-417b-abb4-b8c202c401a2")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR049"
 			(at 116.84 106.68 0)
 			(effects
 				(font
@@ -2137,19 +2137,19 @@
 		(instances
 			(project "axiom_shield"
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/04c6829e-277b-43b0-b617-59fdf0e72999"
-					(reference "#PWR042")
+					(reference "#PWR067")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/0af8012a-d1d0-4c22-a337-ed2180433e12"
-					(reference "#PWR056")
+					(reference "#PWR049")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/4dc9c886-5072-46af-88c7-54df2a8b7696"
-					(reference "#PWR036")
+					(reference "#PWR061")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/5ea327fb-f362-4b77-b0f9-6b7c25185568"
-					(reference "#PWR030")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -2165,7 +2165,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "591ea579-00ec-4497-a20a-a57ef6924734")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR053"
 			(at 173.99 104.14 0)
 			(effects
 				(font
@@ -2215,19 +2215,19 @@
 		(instances
 			(project "axiom_shield"
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/04c6829e-277b-43b0-b617-59fdf0e72999"
-					(reference "#PWR046")
+					(reference "#PWR071")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/0af8012a-d1d0-4c22-a337-ed2180433e12"
-					(reference "#PWR060")
+					(reference "#PWR053")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/4dc9c886-5072-46af-88c7-54df2a8b7696"
-					(reference "#PWR040")
+					(reference "#PWR065")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/5ea327fb-f362-4b77-b0f9-6b7c25185568"
-					(reference "#PWR034")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -2243,7 +2243,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b3aa6f5d-f0bd-4835-a148-9fcff35fe738")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR051"
 			(at 134.62 111.76 0)
 			(effects
 				(font
@@ -2293,19 +2293,19 @@
 		(instances
 			(project "axiom_shield"
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/04c6829e-277b-43b0-b617-59fdf0e72999"
-					(reference "#PWR044")
+					(reference "#PWR069")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/0af8012a-d1d0-4c22-a337-ed2180433e12"
-					(reference "#PWR058")
+					(reference "#PWR051")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/4dc9c886-5072-46af-88c7-54df2a8b7696"
-					(reference "#PWR038")
+					(reference "#PWR063")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/5ea327fb-f362-4b77-b0f9-6b7c25185568"
-					(reference "#PWR032")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -2321,7 +2321,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c69424ba-7aff-4db7-829a-fff47b415b8b")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR054"
 			(at 177.8 106.68 0)
 			(effects
 				(font
@@ -2371,19 +2371,19 @@
 		(instances
 			(project "axiom_shield"
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/04c6829e-277b-43b0-b617-59fdf0e72999"
-					(reference "#PWR047")
+					(reference "#PWR072")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/0af8012a-d1d0-4c22-a337-ed2180433e12"
-					(reference "#PWR061")
+					(reference "#PWR054")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/4dc9c886-5072-46af-88c7-54df2a8b7696"
-					(reference "#PWR041")
+					(reference "#PWR066")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/5ea327fb-f362-4b77-b0f9-6b7c25185568"
-					(reference "#PWR035")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -2399,7 +2399,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea6e87c5-508d-4954-8ad7-423e0114d8ec")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR050"
 			(at 120.65 104.14 0)
 			(effects
 				(font
@@ -2449,19 +2449,19 @@
 		(instances
 			(project "axiom_shield"
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/04c6829e-277b-43b0-b617-59fdf0e72999"
-					(reference "#PWR043")
+					(reference "#PWR068")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/0af8012a-d1d0-4c22-a337-ed2180433e12"
-					(reference "#PWR057")
+					(reference "#PWR050")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/4dc9c886-5072-46af-88c7-54df2a8b7696"
-					(reference "#PWR037")
+					(reference "#PWR062")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/5ea327fb-f362-4b77-b0f9-6b7c25185568"
-					(reference "#PWR031")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -2477,7 +2477,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f33c2c04-a4c6-41de-bbad-13c67632d4e1")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR052"
 			(at 160.02 111.76 0)
 			(effects
 				(font
@@ -2527,19 +2527,19 @@
 		(instances
 			(project "axiom_shield"
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/04c6829e-277b-43b0-b617-59fdf0e72999"
-					(reference "#PWR045")
+					(reference "#PWR070")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/0af8012a-d1d0-4c22-a337-ed2180433e12"
-					(reference "#PWR059")
+					(reference "#PWR052")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/4dc9c886-5072-46af-88c7-54df2a8b7696"
-					(reference "#PWR039")
+					(reference "#PWR064")
 					(unit 1)
 				)
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/5ea327fb-f362-4b77-b0f9-6b7c25185568"
-					(reference "#PWR033")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)

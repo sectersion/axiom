@@ -3172,7 +3172,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "030fe3d1-4301-4912-a40b-27cc0556afe0")
-		(property "Reference" "R2"
+		(property "Reference" "R7"
 			(at 91.186 92.202 90)
 			(effects
 				(font
@@ -3188,7 +3188,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 91.44 96.52 0)
 			(effects
 				(font
@@ -3224,7 +3224,7 @@
 		(instances
 			(project "axiom_shield"
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "R2")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -3239,7 +3239,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1c47b750-ee3b-459d-9c6d-56f333603c91")
-		(property "Reference" "R3"
+		(property "Reference" "R5"
 			(at 74.676 83.058 90)
 			(effects
 				(font
@@ -3255,7 +3255,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 74.93 86.36 0)
 			(effects
 				(font
@@ -3291,7 +3291,7 @@
 		(instances
 			(project "axiom_shield"
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "R3")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -3306,7 +3306,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2e3782c5-ac94-407e-89aa-aae01f621ebd")
-		(property "Reference" "D3"
+		(property "Reference" "D1"
 			(at 245.618 51.562 0)
 			(effects
 				(font
@@ -3322,7 +3322,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 232.41 53.34 0)
 			(effects
 				(font
@@ -3367,7 +3367,7 @@
 		(instances
 			(project "axiom_shield"
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "D3")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -3382,7 +3382,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2f87407f-717d-4694-89c9-72ea5bb95eae")
-		(property "Reference" "R4"
+		(property "Reference" "R6"
 			(at 74.93 90.678 90)
 			(effects
 				(font
@@ -3398,7 +3398,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 74.93 88.9 0)
 			(effects
 				(font
@@ -3434,7 +3434,7 @@
 		(instances
 			(project "axiom_shield"
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "R4")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -3450,7 +3450,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35df9fec-fbe7-435c-8a7a-ceeb050cf6cc")
-		(property "Reference" "C21"
+		(property "Reference" "C11"
 			(at 196.85 48.2599 0)
 			(effects
 				(font
@@ -3468,7 +3468,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 194.0052 53.34 0)
 			(effects
 				(font
@@ -3504,7 +3504,7 @@
 		(instances
 			(project ""
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "C21")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -3520,7 +3520,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3e958e94-af8a-4550-8644-5286a6b40c61")
-		(property "Reference" "C22"
+		(property "Reference" "C12"
 			(at 223.52 80.0099 0)
 			(effects
 				(font
@@ -3538,7 +3538,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 220.6752 85.09 0)
 			(effects
 				(font
@@ -3574,7 +3574,7 @@
 		(instances
 			(project "axiom_shield"
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "C22")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -3589,7 +3589,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "476c27b9-f41d-43a0-858b-562e86e1e1b2")
-		(property "Reference" "D1"
+		(property "Reference" "D3"
 			(at 245.618 61.722 0)
 			(effects
 				(font
@@ -3605,7 +3605,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 232.41 63.5 0)
 			(effects
 				(font
@@ -3650,7 +3650,7 @@
 		(instances
 			(project ""
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "D1")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -3665,7 +3665,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "517ef32e-f942-4e84-bfb3-db5890b4c97d")
-		(property "Reference" "R10"
+		(property "Reference" "R9"
 			(at 212.09 53.594 90)
 			(effects
 				(font
@@ -3681,7 +3681,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 212.09 60.198 90)
 			(effects
 				(font
@@ -3717,7 +3717,7 @@
 		(instances
 			(project ""
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "R10")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -3733,7 +3733,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c6e6dc3-711a-41ed-a385-b08b69aaf376")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR027"
 			(at 81.28 95.25 0)
 			(effects
 				(font
@@ -3783,7 +3783,7 @@
 		(instances
 			(project "axiom_shield"
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "#PWR03")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -3799,7 +3799,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63cd282f-e664-4413-a4a8-9feb7751b2d0")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR031"
 			(at 236.22 73.66 0)
 			(effects
 				(font
@@ -3849,7 +3849,7 @@
 		(instances
 			(project "axiom_shield"
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "#PWR066")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -3880,7 +3880,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 232.41 58.42 0)
 			(effects
 				(font
@@ -3959,7 +3959,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
 			(at 140.97 63.5 0)
 			(effects
 				(font
@@ -4010,7 +4010,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "820595e7-d405-46a4-88d7-9ec2d63e9998")
-		(property "Reference" "R1"
+		(property "Reference" "R8"
 			(at 91.44 101.346 90)
 			(effects
 				(font
@@ -4026,7 +4026,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 91.44 99.06 0)
 			(effects
 				(font
@@ -4062,7 +4062,7 @@
 		(instances
 			(project ""
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "R1")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -4096,7 +4096,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
 			(at 227.33 73.66 0)
 			(effects
 				(font
@@ -4148,7 +4148,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a793c2d3-3ed3-4e74-bbe0-2ece8d47a38c")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR030"
 			(at 208.28 87.63 0)
 			(effects
 				(font
@@ -4198,7 +4198,7 @@
 		(instances
 			(project ""
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "#PWR065")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -4214,7 +4214,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af039786-c986-4836-9a35-f42d698f6cd7")
-		(property "Reference" "C23"
+		(property "Reference" "C10"
 			(at 149.86 48.2599 0)
 			(effects
 				(font
@@ -4232,7 +4232,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 147.0152 53.34 0)
 			(effects
 				(font
@@ -4268,7 +4268,7 @@
 		(instances
 			(project ""
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "C23")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -4284,7 +4284,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b09ca844-bba7-476b-a008-1cc8ee4f742d")
-		(property "Reference" "U1"
+		(property "Reference" "U4"
 			(at 102.1781 88.9 0)
 			(effects
 				(font
@@ -4353,7 +4353,7 @@
 		(instances
 			(project ""
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "U1")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -4369,7 +4369,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2260945-77c8-48ff-a6ad-cc13fc17ef47")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR028"
 			(at 99.06 110.49 0)
 			(effects
 				(font
@@ -4419,7 +4419,7 @@
 		(instances
 			(project "axiom_shield"
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "#PWR02")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -4435,7 +4435,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2744037-84bf-4f03-81c9-bc5139bddbe9")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR029"
 			(at 146.05 76.2 0)
 			(effects
 				(font
@@ -4485,7 +4485,7 @@
 		(instances
 			(project "axiom_shield"
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "#PWR067")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -4501,7 +4501,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1215495-f267-44d9-a94a-27e8e75e1322")
-		(property "Reference" "J1"
+		(property "Reference" "J8"
 			(at 57.15 73.66 0)
 			(effects
 				(font
@@ -4517,7 +4517,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
 			(at 60.96 96.52 0)
 			(effects
 				(font
@@ -4592,7 +4592,7 @@
 		(instances
 			(project ""
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "J1")
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -4608,7 +4608,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c60c6733-f08c-4249-aa3a-30bda6fd3202")
-		(property "Reference" "L3"
+		(property "Reference" "L1"
 			(at 194.31 63.5 90)
 			(effects
 				(font
@@ -4624,7 +4624,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 194.31 68.58 0)
 			(effects
 				(font
@@ -4660,7 +4660,7 @@
 		(instances
 			(project ""
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "L3")
+					(reference "L1")
 					(unit 1)
 				)
 			)
@@ -4675,7 +4675,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c965d47d-2e02-4b6e-8a3c-758113503f1e")
-		(property "Reference" "R12"
+		(property "Reference" "R11"
 			(at 212.09 58.674 90)
 			(effects
 				(font
@@ -4691,7 +4691,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 212.09 65.278 90)
 			(effects
 				(font
@@ -4727,7 +4727,7 @@
 		(instances
 			(project "axiom_shield"
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "R12")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -4742,7 +4742,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d04ae4ec-f826-4d33-a98b-774c21d63545")
-		(property "Reference" "R11"
+		(property "Reference" "R10"
 			(at 212.09 56.134 90)
 			(effects
 				(font
@@ -4758,7 +4758,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 212.09 62.738 90)
 			(effects
 				(font
@@ -4794,7 +4794,7 @@
 		(instances
 			(project "axiom_shield"
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "R11")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -4810,7 +4810,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e340874e-ba95-4d85-bcb3-7e98731689e7")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR026"
 			(at 53.34 125.73 0)
 			(effects
 				(font
@@ -4860,7 +4860,7 @@
 		(instances
 			(project ""
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "#PWR01")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -4876,7 +4876,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f08ec2e7-0835-4af8-b504-68ad57e187c7")
-		(property "Reference" "U6"
+		(property "Reference" "U5"
 			(at 172.72 45.72 0)
 			(effects
 				(font
@@ -4892,7 +4892,7 @@
 				)
 			)
 		)
-		(property "Footprint" "IP5306:SOP127P600X165-9N"
+		(property "Footprint" "misclib:ip5306"
 			(at 172.72 66.04 0)
 			(effects
 				(font
@@ -5070,7 +5070,7 @@
 		(instances
 			(project ""
 				(path "/17b1b55e-6df3-4e0d-982d-4199f16696cd/120cdb01-c78a-45e3-aaed-c9d7beac32f0"
-					(reference "U6")
+					(reference "U5")
 					(unit 1)
 				)
 			)

@@ -1,4 +1,4 @@
-27226119337442489
+27242099116050311
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60171,6 +60171,13 @@ ceramic
 0
 3
 3
+DF40C-20DP-0.4V_51_
+HRS_DF40C-20DP-0.4V_51_
+
+
+0
+24
+24
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -95052,6 +95059,13 @@ Skyworks
 0
 7
 7
+RFX2401
+RFX2401C
+
+
+0
+17
+17
 RF_Antenna
 AVX_M620720
 868Mhz, 915Mhz ISM antenna, 6 x 2 x 1.08mm, http://datasheets.avx.com/ethertronics/AVX-E_M620720.pdf
@@ -100771,6 +100785,13 @@ Logo WEEE
 0
 0
 0
+TPS2113APW
+SOP65P640X120-8N
+
+
+0
+8
+8
 TS-1088-AR02016
 SW_TS-1088-AR02016
 
@@ -107925,6 +107946,13 @@ SOIC127P790X216-8N
 0
 8
 8
+W25Q128JVSIQ
+SOIC127P790X216-8N
+
+
+0
+8
+8
 board_drill_guide
 drill_guide
 
@@ -107932,3 +107960,38 @@ drill_guide
 0
 0
 0
+misclib
+RFX2401C
+
+
+0
+17
+17
+misclib
+SOIC127P599X175-8N
+
+
+0
+8
+8
+misclib
+SOIC127P790X216-8N
+
+
+0
+8
+8
+misclib
+cc1101
+
+
+0
+21
+21
+misclib
+ip5306
+
+
+0
+9
+9

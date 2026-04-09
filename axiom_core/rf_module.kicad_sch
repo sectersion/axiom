@@ -1832,7 +1832,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02ec4d4a-f335-4b98-9103-79a0f96c4688")
-		(property "Reference" "J5"
+		(property "Reference" "J9"
 			(at 147.32 74.93 0)
 			(effects
 				(font
@@ -1848,7 +1848,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DF40C-20DP-0.4V_51_:HRS_DF40C-20DP-0.4V_51_"
+		(property "Footprint" "Connector_Hirose_DF40:Hirose_DF40C-20DP-0.4V_2x10-1MP_P0.4mm"
 			(at 147.32 95.25 0)
 			(effects
 				(font
@@ -2059,7 +2059,7 @@
 		(instances
 			(project "axiom_core"
 				(path "/71d130ab-f2cb-4bba-8902-75557e00a435/f69ec053-b227-4d5c-8e1c-e6bfd2f76e61"
-					(reference "J5")
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -2075,7 +2075,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "265e27ae-90df-417b-abb4-b8c202c401a2")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR067"
 			(at 116.84 106.68 0)
 			(effects
 				(font
@@ -2125,7 +2125,7 @@
 		(instances
 			(project "axiom_core"
 				(path "/71d130ab-f2cb-4bba-8902-75557e00a435/f69ec053-b227-4d5c-8e1c-e6bfd2f76e61"
-					(reference "#PWR056")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -2141,7 +2141,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "591ea579-00ec-4497-a20a-a57ef6924734")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR071"
 			(at 173.99 104.14 0)
 			(effects
 				(font
@@ -2191,7 +2191,7 @@
 		(instances
 			(project "axiom_core"
 				(path "/71d130ab-f2cb-4bba-8902-75557e00a435/f69ec053-b227-4d5c-8e1c-e6bfd2f76e61"
-					(reference "#PWR060")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -2207,7 +2207,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b3aa6f5d-f0bd-4835-a148-9fcff35fe738")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR069"
 			(at 134.62 111.76 0)
 			(effects
 				(font
@@ -2257,7 +2257,7 @@
 		(instances
 			(project "axiom_core"
 				(path "/71d130ab-f2cb-4bba-8902-75557e00a435/f69ec053-b227-4d5c-8e1c-e6bfd2f76e61"
-					(reference "#PWR058")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -2273,7 +2273,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c69424ba-7aff-4db7-829a-fff47b415b8b")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR072"
 			(at 177.8 106.68 0)
 			(effects
 				(font
@@ -2323,7 +2323,7 @@
 		(instances
 			(project "axiom_core"
 				(path "/71d130ab-f2cb-4bba-8902-75557e00a435/f69ec053-b227-4d5c-8e1c-e6bfd2f76e61"
-					(reference "#PWR061")
+					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -2339,7 +2339,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea6e87c5-508d-4954-8ad7-423e0114d8ec")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR068"
 			(at 120.65 104.14 0)
 			(effects
 				(font
@@ -2389,7 +2389,7 @@
 		(instances
 			(project "axiom_core"
 				(path "/71d130ab-f2cb-4bba-8902-75557e00a435/f69ec053-b227-4d5c-8e1c-e6bfd2f76e61"
-					(reference "#PWR057")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -2405,7 +2405,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f33c2c04-a4c6-41de-bbad-13c67632d4e1")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR070"
 			(at 160.02 111.76 0)
 			(effects
 				(font
@@ -2455,7 +2455,7 @@
 		(instances
 			(project "axiom_core"
 				(path "/71d130ab-f2cb-4bba-8902-75557e00a435/f69ec053-b227-4d5c-8e1c-e6bfd2f76e61"
-					(reference "#PWR059")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
