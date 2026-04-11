@@ -8303,15 +8303,15 @@
 	(symbol
 		(lib_id "Device:R_Small")
 		(at 158.75 147.32 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "efbdfe55-31b8-477c-810a-24dad6c1a529")
 		(property "Reference" "R12"
-			(at 161.29 146.0499 0)
+			(at 156.21 146.0499 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -8320,7 +8320,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 161.29 148.5899 0)
+			(at 156.21 148.5899 0)
 			(effects
 				(font
 					(size 1.27 1.27)

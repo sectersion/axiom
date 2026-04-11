@@ -2337,6 +2337,12 @@
 		(uuid "c52f9ab5-3379-474e-95d8-376d7f70af98")
 	)
 	(junction
+		(at 81.28 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d04bda8a-64f7-4f21-b532-426ee4dc67b3")
+	)
+	(junction
 		(at 76.2 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2438,7 +2444,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 73.66) (xy 95.25 73.66)
+			(xy 77.47 73.66) (xy 81.28 73.66)
 		)
 		(stroke
 			(width 0)
@@ -2555,6 +2561,16 @@
 			(type default)
 		)
 		(uuid "7c9cb2c2-a52a-4810-a0e5-b77f8bdb24ff")
+	)
+	(wire
+		(pts
+			(xy 81.28 73.66) (xy 95.25 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e3156cf-a56b-4d2e-8ec5-4c90fd09d023")
 	)
 	(wire
 		(pts
@@ -3133,6 +3149,138 @@
 			(project ""
 				(path "/71d130ab-f2cb-4bba-8902-75557e00a435/c9714ede-cda4-4a3e-a365-b1de95545e37"
 					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 163.83 87.63 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "56e57060-ae49-4bc8-9e08-c2857af3074d")
+		(property "Reference" "#PWR074"
+			(at 163.83 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 163.83 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 163.83 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 163.83 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 163.83 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "80de4770-110d-4931-bf79-e5b2f5154d9c")
+		)
+		(instances
+			(project "axiom_core"
+				(path "/71d130ab-f2cb-4bba-8902-75557e00a435/c9714ede-cda4-4a3e-a365-b1de95545e37"
+					(reference "#PWR074")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 81.28 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5d385238-f165-4b0d-8c12-b91d761a1faa")
+		(property "Reference" "#PWR073"
+			(at 81.28 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 81.28 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 81.28 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 81.28 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 81.28 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bb9a5db8-cbc9-43d4-a5d3-75cf53c1b7b1")
+		)
+		(instances
+			(project "axiom_core"
+				(path "/71d130ab-f2cb-4bba-8902-75557e00a435/c9714ede-cda4-4a3e-a365-b1de95545e37"
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
