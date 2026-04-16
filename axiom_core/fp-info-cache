@@ -1,4 +1,4 @@
-27242099116050311
+27250980638917870
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -107953,6 +107953,41 @@ SOIC127P790X216-8N
 0
 8
 8
+aslib
+github
+
+
+0
+0
+0
+aslib
+hc_flag
+
+
+0
+0
+0
+aslib
+nl
+
+
+0
+0
+0
+aslib
+nl2
+
+
+0
+0
+0
+aslib
+tux
+
+
+0
+0
+0
 board_drill_guide
 drill_guide
 
